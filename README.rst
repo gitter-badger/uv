@@ -1,6 +1,10 @@
 Python »libuv« CFFI Wrapper
 ===========================
 
+.. image:: https://badges.gitter.im/koehlma/uv.svg
+   :alt: Join the chat at https://gitter.im/koehlma/uv
+   :target: https://gitter.im/koehlma/uv?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 |pypi| |unix_build| |windows_build| |coverage| |docs|
 
 This package aims to provide an object oriented CFFI based wrapper around the libuv
